@@ -6,7 +6,7 @@ export default function MedsAllergiesForm({ formData, setFormData, onNext, onBac
     <div className="p-6 bg-white rounded-2xl shadow-md max-w-xl mx-auto">
       <h2 className="text-2xl font-bold mb-4 text-blue-700">Step 3: Medications & Allergies</h2>
       
-      <div className="space-y-4">
+      <div className="space-y-4 text-gray-700">
         <textarea
           placeholder="Current medications (if any)"
           value={formData.meds || ""}

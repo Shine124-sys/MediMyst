@@ -10,7 +10,7 @@ export default function SymptomsForm({ formData, setFormData, onNext, onBack }) 
         placeholder="Describe your symptoms..."
         value={formData.symptoms || ""}
         onChange={(e) => setFormData({ ...formData, symptoms: e.target.value })}
-        className="w-full border rounded-lg p-3 h-32 focus:ring-2 focus:ring-blue-400"
+        className="w-full border rounded-lg p-3 h-32 focus:ring-2 focus:ring-blue-400 text-gray-700"
       />
 
       <div className="flex justify-between mt-6">
