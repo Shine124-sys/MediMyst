@@ -1,0 +1,984 @@
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Viral Infection,Common Cold,Ibuprofen
+Male,Cough,Viral Infection,Common Cold,Ibuprofen
+Female,Headache,Stress,Migraine,Sumatriptan
+Female,Fatigue,Stress,Migraine,Sumatriptan
+Male,Shortness of breath,Pollution,Asthma,Albuterol Inhaler
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Vomiting,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Sore Throat,Bacterial Infection,Strep Throat,Penicillin
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,Chest Pain,High Blood Pressure,Hypertension,Amlodipine
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Abdominal Pain,Poor Diet,Indigestion,Antacids
+Female,Fatigue,Depression,Major Depressive,Sertraline
+Male,Fever,Viral Infection,Influenza,Acetaminophen
+Female,Cough,Cold Weather,Common Cold,Honey
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Shortness of breath,Smoking,Chronic Bronchitis,Inhalers
+Male,Headache,Migraine Triggers,Migraine,Beta-blockers
+Female,Stomach Pain,Spicy Food,Gastritis,Antacids
+Male,Joint Pain,Autoimmune Response,Rheumatoid Arthritis,NSAIDs
+Female,Sore Throat,Viral Infection,Tonsillitis,Fluids
+Male,Back Pain,Herniated,Disciatica,Pain Relievers
+Female,Nausea,Pregnancy,Morning Sickness,Vitamin B6
+Male,Fatigue,Anemia,Iron Deficiency,Iron Supplements
+Female,Anxiety,Stress,Panic Disorder,Cognitive Therapy
+Male,Shortness of breath,Obesity,Sleep Apnea,CPAP Machine
+Female,Skin Rash,Allergies,Dermatitis,Topical Steroids
+Male,Cough,Viral Infection,Respiratory infection,Antivirals
+Female,Joint Pain,Osteoarthritis,Arthritis,Pain Relievers
+Male,Dizziness,Dehydration,Heat Exhaustion,Hydration
+Female,Headache,Tension,Tension Headache,NSAIDs
+Male,Bloating ,overeating           ,Indigestion,Antacids
+Female,Nausea,Menstrual Cycle,Menstrual Cramps,Pain Relievers
+Male,Chest Pain,Heart Disease,Coronary ArteryDisease,Nitroglycerin
+Female,Difficulty breathing,Hypothyroidism,Thyroid Disorder,Levothyroxine
+Male,Chills,Infection,Pneumonia,Antibiotics
+Female,Cough,COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Muscle Pain,Overexertion,Muscle Strain,Pain Relievers
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Headache,Eye Strain,Vision Fatigue,Eye Exercises
+Male,Diarrhea,Food Poisoning,Gastroenteritis,Fluids
+Female,Back Pain,Sciatica,Herniated Disc,Pain Relievers
+Male,Fever,Viral Infection,Tonsillitis,Fluids
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Rest
+Female,Anxiety,Stress,Anxiety Disorder,Medication
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Stretching
+Female,Swelling,Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,Dizziness,Motion Sickness,Motion Sickness,Dimenhydrinate
+Male,Fever,Viral Infection,Common Cold,Ibuprofen
+Female,Headache,Stress,Migraine,Sumatriptan
+Male,Shortness of breath,Pollution,Asthma,Albuterol Inhaler
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Sore Throat,Bacterial Infection,Strep Throat,Penicillin
+Female,Joint Pain,Rheumatoid Arthriti,Arthritis,NSAIDs
+Male,Dizziness,High Blood Pressure,Hypertension,Amlodipine
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Bloating,Poor Diet,Indigestion,Antacids
+Female,Fatigue,Depression,Major Depressive Disorder,Sertraline
+Male,Chest Pain,Physical Exertion,Muscle Overuse,Stretching
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Lifestyle
+Male,Chills,Infection,Pneumonia,Antibiotics
+Female,Cough,h  COVID-19 Exposure,COVID-19,Isolation
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Muscle Pain,Overexertion,Muscle Strain,Pain Relievers
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Headache,Eye Strain,Vision Fatigue,Eye Exercises
+Male,Stomach Pain,Food Poisoning,Gastroenteritis,Bland Diet
+Female,Numbness,Sciatica,Herniated Disc,Pain Relievers
+Male,Sore Throat,Viral Infection,Tonsillitis,Fluids
+Female,Weakness,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Lifestyle
+Female,Anxiety,Stress,Anxiety Disorder, Therapy
+Male,Chest Pain,Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue,Lifestyle
+Male,Fever,Infection,Pneumonia,Antibiotics
+Female,Cough,COVID-19 Exposure,COVID-19,Isolation
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Muscle Pain,Overexertion,Muscle Strain,Pain Relievers
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Headache,Eye Strain,Vision Fatigue,Eye Exercises
+Male,Diarrhea,Food Poisoning,Gastroenteritis,Fluids
+Female,Numbness,Sciatica,Herniated Disc,Pain Relievers
+Male,Sore Throat,Viral Infection,Tonsillitis,Fluids
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Female,Anxiety,Stress,Anxiety Disorder,Therapy
+Male,Shortness of breath,Physical Exertion,Muscle Overuse,Stretching
+Female,Swelling,Rheumatoid Arthritis, Arthritis,NSAIDs
+Male,Dizziness,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Fatigue,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,Lifestyle
+Female,Abdominal Pain,Overeating,Indigestion,Antacids
+Male,Fatigue,Anemia,Iron Deficiency,Iron Supplements
+Female, Anxiety,Stress,Panic Disorder,Cognitive Therapy
+Male,Shortness of breath,Obesity,Sleep Apnea,CPAP Machine
+Female, Skin Rash,Allergies,Dermatitis,Topical Steroids
+Male,"Cough, Fever",Viral Infection,RespiratoryInfection,Antivirals
+Female,Joint Pain,Osteoarthritis,Arthritis,Pain Relievers
+Male,Dizziness,Dehydration,Heat Exhaustion,Hydration
+Female,Headache,Tension,Tension Headache,NSAIDs
+Male,Bloating,Overeating,Indigestion,Antacids
+Female,Cramps,Menstrual Cycle,Menstrual Cramps,Pain Relievers
+Male,Shortness of breath,Heart Disease,Coronary Artery,Nitroglycerin
+Female,Fatigue,Hypothyroidism,Thyroid Disorder, Levothyroxine
+Male,Chills,Infection,Pneumonia,Antibiotics
+Femal,Cough,COVID-19 Exposure,COVID-19,Fluids
+Femal,Redness,Allergies,Allergic Reaction, Antihistamine
+Male,Muscle Pain,Overexertion,Muscle Strain,Pain Relievers
+Femal,Vomiting,Food Poisoning,Gastroenteritis, Oral Rehydration
+Female,Joint Pain,Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Fatigue,Chronic FatigueSyndrome,Chronic Fatigue Syndrome,Lifestyle
+Male,Chills,Infection,Pneumonia,Antibiotics
+Female,Sore Throat,Bacterial Infection ,Strep Throat     ,Penicillin
+Male,Fatigue,Anemia              ,Iron Deficiency ,Iron Supplements
+Female,Rapid Heartbeat,Stress              ,Panic Disorder  ,Cognitive Therapy
+Male,Shortness of breath,Obesity             ,Sleep Apnea     ,CPAP Machine
+Female,Skin Rash,Allergies           ,Dermatitis      ,Topical Steroids
+Male,Cough,Viral Infection     ,Respiratory     AntiInfection,virals
+Female,Joint Pain,Rheumatoid Arthritis ,Arthritis     ,  NSAIDs
+Male,Dizziness,Dehydration         ,Heat Exhaustion,Hydration
+Female,Headache,Tension             ,Tension Headache Rel,NSAIDs
+Male,Abdominal Pain,Overeating          ,Indigestion     ,Antacids
+Female,Cramps,Menstrual Cycle    ,Menstrual Cramps ,n Relievers
+Male,Chest Pain,Heart Disease       ,Coronary Artery Disease   ,Nitroglycerin
+Female,Fatigue,Hypothyroidism      ,Disease         , Levothyroxine
+Male,Fever,Infection           ,Pheumonia      , Antibiotics
+Female,Shortness of breath,COVID-19 Exposure   ,COVID-19      ,Isolation
+Male,Itching,Allergies           ,Allergic Reaction An,tihistamine
+Female,Muscle Pain,Overexertion        ,Muscle Strain  ,Pain Relievers
+Male,Nausea,Food Poisoning  ,Muscle Strain  ,Rehydration
+Female,Headache,Eye Strain          ,Muscle Strain  ,Eye Exercises
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Viral Infection,Common Cold,Ibuprofen
+Male,Cough,Viral Infection,Common Cold,Ibuprofen
+Female,Headache,Stress,Migraine,Sumatriptan
+Female,Fatigue,Stress,Migraine,Sumatriptan
+Male,Shortness of breath,Pollution,Asthma,Albuterol Inhaler
+Female,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Vomiting,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Sore Throat,Bacterial Infection,Strep Throat,Penicillin
+Female,Joint Pain,Autoimmune Disorder,Rheumatoid Arthritis,NSAIDs
+Male,Chest Pain,High Blood Pressure,Hypertension,Amlodipine
+Female,Itching,Allergies,Allergic Reaction,Antihistamine
+Male,Abdominal Pain,Poor Diet,Indigestion,Antacids
+Female,Fatigue,Depression,Major Depressive Disorder,Sertraline
+Male,Fever,Viral Infection,Influenza,Acetaminophen
+Female,Cough,Cold Weather,Common Cold,Honey
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Shortness of breath,Smoking,Chronic Bronchitis,Inhalers
+Male,Headache,Migraine Triggers,Migraine,Beta Blockers
+Female,Stomach Pain,Spicy Food,Gastritis,Antacids
+Male,Joint Pain,Autoimmune Response,Rheumatoid Arthritis,NSAIDs
+Female,Sneezing,Pollen Allergy,Allergic Rhinitis,Cetirizine
+Male,Runny Nose,Seasonal Change,Common Cold,Phenylephrine
+Female,Fever,Bacterial Infection,Urinary Tract Infection,Nitrofurantoin
+Male,Burning Urination,Bacterial Infection,Urinary Tract Infection,Ciprofloxacin
+Female,Lower Back Pain,Poor Posture,Muscle Strain,Pain Relievers
+Male,Back Pain,Heavy Lifting,Muscle Strain,Ibuprofen
+Female,Anxiety,Stress,Anxiety Disorder,Alprazolam
+Male,Palpitations,Stress,Anxiety Disorder,Propranolol
+Female,Weight Gain,Hormonal Imbalance,Hypothyroidism,Levothyroxine
+Male,Weight Loss,Metabolic Disorder,Hyperthyroidism,Methimazole
+Female,Constipation,Low Fiber Diet,Constipation,Lactulose
+Male,Diarrhea,Contaminated Food,Acute Gastroenteritis,Oral Rehydration
+Female,Skin Rash,Cosmetic Reaction,Contact Dermatitis,Hydrocortisone Cream
+Male,Itchy Skin,Fungal Infection,Tinea Corporis,Clotrimazole
+Female,Acne,Hormonal Changes,Acne Vulgaris,Benzoyl Peroxide
+Male,Hair Loss,Genetics,Androgenic Alopecia,Minoxidil
+Female,Dizziness,Low Blood Pressure,Hypotension,Fluids
+Male,Dizziness,Dehydration,Dehydration,Oral Rehydration
+Female,Pelvic Pain,Infection,PID,Antibiotics
+Male,Testicular Pain,Injury,Testicular Trauma,Pain Relievers
+Female,Shortness of Breath,Iron Deficiency,Anemia,Iron Supplements
+Male,Fatigue,Sleep Deprivation,Insomnia,Melatonin
+Female,Insomnia,Stress,Insomnia,Melatonin
+Male,Snoring,Airway Obstruction,Sleep Apnea,CPAP Therapy
+Female,Chest Tightness,Stress,Panic Attack,Anxiolytics
+Male,Chest Tightness,Smoking,Angina,Nitroglycerin
+Female,Eye Redness,Bacterial Infection,Conjunctivitis,Antibiotic Eye Drops
+Male,Eye Irritation,Dust Exposure,Allergic Conjunctivitis,Antihistamine Drops
+Female,Ear Pain,Infection,Otitis Media,Amoxicillin
+Male,Ear Pain,Water Exposure,Swimmer’s Ear,Antibiotic Ear Drops
+Female,Neck Pain,Poor Posture,Cervical Spondylosis,Physiotherapy
+Male,Neck Stiffness,Muscle Strain,Cervical Strain,Pain Relievers
+Female,Bloating,Food Intolerance,IBS,Simethicone
+Male,Gas,Overeating,Flatulence,Activated Charcoal
+Female,Heartburn,Acid Reflux,GERD,Pantoprazole
+Male,Heartburn,Spicy Food,GERD,Omeprazole
+Female,Frequent Urination,High Blood Sugar,Diabetes Mellitus,Metformin
+Male,Frequent Urination,High Blood Sugar,Diabetes Mellitus,Metformin
+Female,Blurred Vision,Diabetes,Diabetic Retinopathy,Insulin
+Male,Blurred Vision,Eye Strain,Refractive Error,Corrective Lenses
+Female,Leg Swelling,Pregnancy,Edema,Leg Elevation
+Male,Leg Swelling,Heart Failure,Congestive Heart Failure,Diuretics
+Female,Breast Pain,Hormonal Changes,Mastalgia,Pain Relievers
+Male,Groin Pain,Muscle Injury,Groin Strain,Rest
+Female,Memory Loss,Vitamin Deficiency,Vitamin B12 Deficiency,B12 Supplements
+Male,Memory Issues,Aging,Mild Cognitive Impairment,Cognitive Therapy
+Female,Cold Intolerance,Hormonal Imbalance,Hypothyroidism,Levothyroxine
+Male,Heat Intolerance,Thyroid Disorder,Hyperthyroidism,Carbimazole
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Heat Exposure,Heat Exhaustion,Oral Rehydration
+Female,Fever,Bacterial Infection,Tonsillitis,Amoxicillin
+Male,Cough,Smoking,Chronic Bronchitis,Bronchodilators
+Female,Cough,Allergy,Allergic Cough,Antihistamine
+Male,Wheezing,Air Pollution,Asthma,Salbutamol
+Female,Wheezing,Dust Allergy,Asthma,Inhaled Corticosteroids
+Male,Sore Throat,Viral Infection,Pharyngitis,Paracetamol
+Female,Sore Throat,Bacterial Infection,Tonsillitis,Azithromycin
+Male,Runny Nose,Seasonal Allergy,Allergic Rhinitis,Loratadine
+Female,Runny Nose,Cold Exposure,Common Cold,Phenylephrine
+Male,Headache,Dehydration,Dehydration,Fluids
+Female,Headache,Lack of Sleep,Tension Headache,Paracetamol
+Male,Back Pain,Prolonged Sitting,Lower Back Pain,Muscle Relaxants
+Female,Back Pain,Osteoporosis,Vertebral Pain,Calcium Supplements
+Male,Knee Pain,Overuse,Osteoarthritis,NSAIDs
+Female,Knee Pain,Cartilage Degeneration,Osteoarthritis,Glucosamine
+Male,Shoulder Pain,Muscle Tear,Rotator Cuff Injury,Physiotherapy
+Female,Shoulder Stiffness,Frozen Shoulder,Adhesive Capsulitis,Pain Relievers
+Male,Chest Pain,Stress,Anxiety Attack,Anxiolytics
+Female,Chest Pain,Acid Reflux,GERD,Proton Pump Inhibitors
+Male,Palpitations,Caffeine Intake,Tachycardia,Beta Blockers
+Female,Palpitations,Anxiety,Anxiety Disorder,Relaxation Therapy
+Male,Abdominal Pain,Appendix Inflammation,Appendicitis,Surgical Referral
+Female,Abdominal Pain,Menstrual Cramps,Dysmenorrhea,Antispasmodics
+Male,Constipation,Low Fiber Intake,Constipation,Psyllium Husk
+Female,Constipation,Pregnancy,Constipation,Lactulose
+Male,Diarrhea,Viral Infection,Viral Gastroenteritis,Oral Rehydration
+Female,Diarrhea,Food Allergy,Food Intolerance,Probiotics
+Male,Vomiting,Alcohol Consumption,Gastritis,Antiemetics
+Female,Vomiting,Early Pregnancy,Morning Sickness,Doxylamine
+Male,Burning Chest,Acid Reflux,GERD,Ranitidine
+Female,Burning Chest,Hiatal Hernia,GERD,Esomeprazole
+Male,Frequent Headache,Eye Strain,Vision Problems,Eye Examination
+Female,Blurred Vision,Low Blood Sugar,Hypoglycemia,Glucose
+Male,Numbness,Vitamin Deficiency,Peripheral Neuropathy,Vitamin B Complex
+Female,Numbness,Diabetes,Diabetic Neuropathy,Gabapentin
+Male,Tremors,Alcohol Withdrawal,Withdrawal Syndrome,Benzodiazepines
+Female,Tremors,Anxiety,Essential Tremor,Propranolol
+Male,Muscle Cramps,Electrolyte Imbalance,Hypokalemia,Potassium Supplements
+Female,Muscle Pain,Fibromyalgia,Fibromyalgia,Pain Modulators
+Male,Excessive Thirst,High Blood Sugar,Diabetes Mellitus,Insulin
+Female,Excessive Thirst,Dehydration,Dehydration,Fluids
+Male,Weight Gain,Overeating,Obesity,Diet Control
+Female,Weight Gain,Thyroid Disorder,Hypothyroidism,Levothyroxine
+Male,Weight Loss,Malabsorption,Celiac Disease,Gluten Free Diet
+Female,Weight Loss,Stress,Anorexia Nervosa,Psychotherapy
+Male,Dark Urine,Dehydration,Dehydration,Oral Rehydration
+Female,Dark Urine,Liver Disorder,Hepatitis,Liver Support Therapy
+Male,Yellow Eyes,Liver Infection,Jaundice,Hepatitis Treatment
+Female,Yellow Eyes,Gallstones,Obstructive Jaundice,Surgical Evaluation
+Male,Leg Pain,Blocked Arteries,Peripheral Artery Disease,Antiplatelets
+Female,Leg Pain,Varicose Veins,Venous Insufficiency,Compression Stockings
+Male,Foot Pain,Diabetes,Diabetic Foot Care,Wound Care
+Female,Foot Swelling,Prolonged Standing,Edema,Leg Elevation
+Male,Hand Pain,Repetitive Use,Carpal Tunnel Syndrome,Wrist Splint
+Female,Hand Stiffness,Rheumatoid Arthritis,Arthritis,DMARDs
+Male,Neck Swelling,Infection,Lymphadenitis,Antibiotics
+Female,Neck Swelling,Thyroid Enlargement,Goiter,Thyroid Medication
+Male,Skin Discoloration,Fungal Infection,Tinea Versicolor,Antifungal Lotion
+Female,Skin Dryness,Low Humidity,Xerosis,Moisturizers
+Male,Excessive Sweating,Autonomic Disorder,Hyperhidrosis,Antiperspirants
+Female,Excessive Sweating,Hormonal Changes,Menopause,Hormone Therapy
+Male,Low Mood,Stress,Adjustment Disorder,Counseling
+Female,Low Mood,Depression,Depressive Disorder,SSRIs
+Male,Loss of Appetite,Chronic Illness,Anorexia,Appetite Stimulants
+Female,Loss of Appetite,Stress,Functional Dyspepsia,Probiotics
+Male,Insomnia,Shift Work,Sleep Disorder,Melatonin
+Female,Daytime Sleepiness,Poor Sleep,Sleep Deprivation,Sleep Hygiene
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Parasitic Infection,Malaria,Artemisinin
+Female,Fever,Bacterial Infection,Typhoid,Azithromycin
+Male,Chills,Infection,Malaria,Artemisinin
+Female,Chills,Viral Infection,Dengue,Paracetamol
+Male,Body Ache,Viral Infection,Dengue,Paracetamol
+Female,Body Ache,Influenza,Flu,Oseltamivir
+Male,Cough,Dust Exposure,Occupational Bronchitis,Bronchodilators
+Female,Cough,Post Viral,Post Viral Cough,Cough Suppressants
+Male,Sneezing,Cold Weather,Allergic Rhinitis,Cetirizine
+Female,Sneezing,Pollen Exposure,Seasonal Allergy,Loratadine
+Male,Headache,High Blood Pressure,Hypertension,Amlodipine
+Female,Headache,Hormonal Changes,Menstrual Migraine,Sumatriptan
+Male,Blurred Vision,Hypertension,Hypertensive Retinopathy,Blood Pressure Control
+Female,Blurred Vision,Eye Infection,Conjunctivitis,Eye Drops
+Male,Difficulty Breathing,Infection,Pneumonia,Antibiotics
+Female,Difficulty Breathing,Asthma,Asthma Exacerbation,Nebulization
+Male,Chest Congestion,Smoking,Chronic Bronchitis,Mucolytics
+Female,Chest Congestion,Cold Infection,Bronchitis,Expectorants
+Male,Abdominal Pain,Gas,Bloating,Simethicone
+Female,Abdominal Pain,IBS,IBS,Antispasmodics
+Male,Nausea,Food Poisoning,Gastroenteritis,Antiemetics
+Female,Nausea,Migraine,Migraine,Domperidone
+Male,Vomiting,Alcohol Intake,Acute Gastritis,Proton Pump Inhibitors
+Female,Vomiting,Food Poisoning,Food Poisoning,Oral Rehydration
+Male,Loose Stool,Bacterial Infection,Diarrhea,Metronidazole
+Female,Loose Stool,Viral Infection,Viral Diarrhea,Oral Rehydration
+Male,Constipation,Sedentary Lifestyle,Constipation,Lactulose
+Female,Constipation,Low Fiber Intake,Constipation,Psyllium Husk
+Male,Heartburn,Alcohol Intake,GERD,Omeprazole
+Female,Heartburn,Spicy Food,GERD,Pantoprazole
+Male,Joint Stiffness,Age Related,Osteoarthritis,Pain Relievers
+Female,Joint Stiffness,Autoimmune Disorder,Rheumatoid Arthritis,DMARDs
+Male,Joint Swelling,Injury,Joint Sprain,Ice Therapy
+Female,Joint Swelling,Inflammation,Arthritis,NSAIDs
+Male,Muscle Pain,Overexertion,Muscle Strain,Muscle Relaxants
+Female,Muscle Pain,Vitamin D Deficiency,Myalgia,Vitamin D Supplements
+Male,Leg Cramps,Electrolyte Loss,Electrolyte Imbalance,Electrolytes
+Female,Leg Cramps,Pregnancy,Muscle Cramps,Magnesium Supplements
+Male,Swollen Ankles,Heart Failure,Edema,Diuretics
+Female,Swollen Ankles,Prolonged Standing,Dependent Edema,Leg Elevation
+Male,Frequent Urination,Prostate Enlargement,BPH,Tamsulosin
+Female,Frequent Urination,UTI,Urinary Tract Infection,Nitrofurantoin
+Male,Burning Urine,UTI,Urinary Infection,Ciprofloxacin
+Female,Burning Urine,UTI,Urinary Infection,Fosfomycin
+Male,Lower Back Pain,Disc Degeneration,Sciatica,Pain Relievers
+Female,Lower Back Pain,Poor Posture,Lumbar Strain,Physiotherapy
+Male,Neck Pain,Long Screen Time,Text Neck Syndrome,Posture Correction
+Female,Neck Pain,Stress,Tension Neck Pain,Massage Therapy
+Male,Hair Fall,Nutritional Deficiency,Alopecia,Multivitamins
+Female,Hair Fall,Hormonal Imbalance,Telogen Effluvium,Biotin
+Male,Skin Redness,Sun Exposure,Sunburn,Aloe Vera
+Female,Skin Redness,Allergic Reaction,Contact Dermatitis,Topical Steroids
+Male,Skin Infection,Bacterial Infection,Cellulitis,Antibiotics
+Female,Skin Infection,Fungal Infection,Candidiasis,Antifungals
+Male,Itching,Fungal Infection,Ringworm,Clotrimazole
+Female,Itching,Allergy,Urticaria,Antihistamines
+Male,Acne,Oily Skin,Acne Vulgaris,Salicylic Acid
+Female,Acne,Hormonal Acne,Acne Vulgaris,Retinoids
+Male,Mouth Ulcers,Stress,Aphthous Ulcers,Topical Gel
+Female,Mouth Ulcers,Vitamin Deficiency,Oral Ulcers,B Complex
+Male,Sore Gums,Poor Oral Hygiene,Gingivitis,Antiseptic Mouthwash
+Female,Bleeding Gums,Gum Disease,Periodontitis,Dental Care
+Male,Tooth Pain,Tooth Decay,Dental Caries,Analgesics
+Female,Tooth Sensitivity,Enamel Loss,Dentin Sensitivity,Desensitizing Toothpaste
+Male,Eye Pain,Foreign Body,Eye Injury,Eye Wash
+Female,Eye Pain,Infection,Conjunctivitis,Antibiotic Drops
+Male,Reduced Appetite,Stress,Functional Dyspepsia,Appetite Stimulants
+Female,Reduced Appetite,Depression,Loss of Appetite,Antidepressants
+Male,Excessive Sleepiness,Sleep Apnea,Sleep Disorder,CPAP
+Female,Excessive Sleepiness,Anemia,Iron Deficiency Anemia,Iron Supplements
+Male,Cold Sweats,Hypoglycemia,Low Blood Sugar,Glucose
+Female,Cold Sweats,Anxiety,Panic Disorder,Anxiolytics
+Male,Memory Loss,Alcohol Abuse,Cognitive Impairment,Cognitive Therapy
+Female,Memory Loss,Vitamin Deficiency,Memory Impairment,B12 Supplements
+Male,Hand Tremor,Neurological Disorder,Essential Tremor,Propranolol
+Female,Hand Tremor,Thyroid Disorder,Hyperthyroidism,Antithyroid Drugs
+Male,Speech Difficulty,Stroke,Cerebrovascular Accident,Emergency Care
+Female,Speech Difficulty,Neurological Disorder,Transient Ischemic Attack,Antiplatelets
+Male,Facial Weakness,Stroke,Bell’s Palsy,Steroids
+Female,Facial Weakness,Viral Infection,Bell’s Palsy,Physiotherapy
+Male,Seizures,Epilepsy,Epileptic Disorder,Antiepileptics
+Female,Seizures,High Fever,Febrile Seizure,Antipyretics
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Bacterial Infection,Pneumonia,Amoxicillin
+Female,Fever,Viral Infection,Chikungunya,Paracetamol
+Male,High Fever,Mosquito Bite,Dengue Fever,Paracetamol
+Female,High Fever,Mosquito Bite,Malaria,Artemether
+Male,Cough,Cold Exposure,Acute Bronchitis,Cough Syrup
+Female,Cough,Air Pollution,Reactive Airway Disease,Bronchodilators
+Male,Wheezing,Smoking,COPD,Bronchodilators
+Female,Wheezing,Allergy,Asthma,Inhaled Steroids
+Male,Chest Pain,Coronary Artery Disease,Angina,Nitroglycerin
+Female,Chest Pain,Anxiety,Panic Disorder,Anxiolytics
+Male,Shortness of Breath,Heart Failure,Congestive Heart Failure,Diuretics
+Female,Shortness of Breath,Anemia,Iron Deficiency Anemia,Iron Supplements
+Male,Palpitations,Arrhythmia,Atrial Fibrillation,Anticoagulants
+Female,Palpitations,Stress,Anxiety Disorder,Relaxation Therapy
+Male,Headache,Sleep Deprivation,Tension Headache,Paracetamol
+Female,Headache,Blood Pressure,Hypertension,Amlodipine
+Male,Dizziness,Inner Ear Disorder,Vertigo,Betahistine
+Female,Dizziness,Dehydration,Dehydration,Fluids
+Male,Loss of Balance,Inner Ear Infection,Labyrinthitis,Antihistamines
+Female,Loss of Balance,Low Blood Pressure,Hypotension,Fluids
+Male,Nausea,Motion Exposure,Motion Sickness,Dimenhydrinate
+Female,Nausea,Pregnancy,Morning Sickness,Vitamin B6
+Male,Vomiting,Food Contamination,Food Poisoning,Oral Rehydration
+Female,Vomiting,Gastritis,Acid Peptic Disease,Antiemetics
+Male,Abdominal Pain,Gallstones,Cholelithiasis,Pain Relievers
+Female,Abdominal Pain,Ovarian Cyst,Ovarian Cyst,Observation
+Male,Abdominal Bloating,Gas Accumulation,Bloating,Simethicone
+Female,Abdominal Bloating,IBS,IBS,Probiotics
+Male,Loose Motion,Bacterial Infection,Dysentery,Metronidazole
+Female,Loose Motion,Viral Infection,Viral Diarrhea,Oral Rehydration
+Male,Constipation,Low Fiber Intake,Chronic Constipation,Lactulose
+Female,Constipation,Iron Supplements,Drug Induced Constipation,Psyllium Husk
+Male,Heartburn,Obesity,GERD,Omeprazole
+Female,Heartburn,Pregnancy,Acid Reflux,Antacids
+Male,Joint Pain,Age Related,Osteoarthritis,NSAIDs
+Female,Joint Pain,Autoimmune Disease,Lupus,Immunosuppressants
+Male,Joint Swelling,Infection,Septic Arthritis,IV Antibiotics
+Female,Joint Swelling,Inflammation,Reactive Arthritis,NSAIDs
+Male,Muscle Weakness,Electrolyte Imbalance,Hypokalemia,Potassium
+Female,Muscle Weakness,Vitamin Deficiency,Myopathy,Vitamin Supplements
+Male,Back Pain,Disc Herniation,Slip Disc,Physiotherapy
+Female,Back Pain,Pregnancy,Mechanical Back Pain,Support Belt
+Male,Neck Pain,Whiplash Injury,Cervical Strain,Pain Relievers
+Female,Neck Pain,Degenerative Changes,Cervical Spondylosis,Physiotherapy
+Male,Hand Numbness,Nerve Compression,Carpal Tunnel Syndrome,Wrist Splint
+Female,Hand Numbness,Vitamin B12 Deficiency,Neuropathy,B12 Supplements
+Male,Leg Pain,Clot Formation,Deep Vein Thrombosis,Anticoagulants
+Female,Leg Pain,Varicose Veins,Venous Insufficiency,Compression Stockings
+Male,Foot Ulcer,Diabetes,Diabetic Foot Ulcer,Wound Care
+Female,Foot Pain,Plantar Fasciitis,Heel Pain,Orthotics
+Male,Skin Rash,Drug Reaction,Drug Allergy,Antihistamines
+Female,Skin Rash,Fungal Infection,Tinea Cruris,Antifungal Cream
+Male,Itchy Scalp,Fungal Infection,Dandruff,Ketoconazole Shampoo
+Female,Itchy Scalp,Dry Skin,Scalp Dryness,Moisturizing Shampoo
+Male,Acne Scars,Previous Acne,Post Acne Scars,Topical Retinoids
+Female,Acne Scars,Inflammatory Acne,Post Acne Scars,Chemical Peels
+Male,Mouth Dryness,Dehydration,Xerostomia,Hydration
+Female,Mouth Dryness,Autoimmune Disorder,Sjogren Syndrome,Saliva Substitutes
+Male,Bad Breath,Poor Oral Hygiene,Halitosis,Mouthwash
+Female,Bad Breath,Gastric Issues,GERD,Acid Suppressants
+Male,Tooth Infection,Bacterial Infection,Dental Abscess,Antibiotics
+Female,Tooth Infection,Untreated Caries,Pulpitis,Dental Treatment
+Male,Eye Redness,Allergy,Allergic Conjunctivitis,Antihistamine Drops
+Female,Eye Redness,Viral Infection,Viral Conjunctivitis,Lubricating Drops
+Male,Eye Blurring,Refractive Error,Myopia,Corrective Glasses
+Female,Eye Blurring,Refractive Error,Hypermetropia,Corrective Glasses
+Male,Ear Discharge,Chronic Infection,Chronic Otitis Media,Antibiotic Drops
+Female,Ear Discharge,Fungal Infection,Otomycosis,Antifungal Drops
+Male,Hearing Loss,Noise Exposure,Noise Induced Hearing Loss,Hearing Protection
+Female,Hearing Loss,Age Related,Presbycusis,Hearing Aids
+Male,Nasal Blockage,Nasal Polyps,Nasal Polyposis,Intranasal Steroids
+Female,Nasal Blockage,Deviated Septum,Deviated Nasal Septum,Surgical Referral
+Male,Sore Throat,Acid Reflux,Laryngopharyngeal Reflux,Proton Pump Inhibitors
+Female,Sore Throat,Voice Overuse,Laryngitis,Voice Rest
+Male,Hoarseness,Smoking,Chronic Laryngitis,Smoking Cessation
+Female,Hoarseness,Thyroid Enlargement,Goiter,Thyroid Evaluation
+Male,Weight Gain,Endocrine Disorder,Cushing Syndrome,Endocrine Therapy
+Female,Weight Gain,Sedentary Lifestyle,Obesity,Diet Counseling
+Male,Weight Loss,Chronic Infection,Tuberculosis,Anti TB Drugs
+Female,Weight Loss,Malabsorption,Celiac Disease,Gluten Free Diet
+Male,Night Sweats,Infection,Tuberculosis,Anti TB Therapy
+Female,Night Sweats,Hormonal Changes,Perimenopause,Lifestyle Management
+Male,Low Libido,Stress,Sexual Dysfunction,Counseling
+Female,Low Libido,Hormonal Changes,Sexual Dysfunction,Hormonal Therapy
+Male,Urinary Hesitancy,Prostate Enlargement,BPH,Alpha Blockers
+Female,Urinary Incontinence,Weak Pelvic Floor,Stress Incontinence,Pelvic Exercises
+Male,Blood in Urine,Stone Disease,Kidney Stones,Hydration Therapy
+Female,Blood in Urine,UTI,Urinary Tract Infection,Antibiotics
+Male,Flank Pain,Stone Obstruction,Ureteric Calculus,Pain Management
+Female,Flank Pain,Infection,Pyelonephritis,IV Antibiotics
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Viral Infection,COVID-19,Paracetamol
+Female,Fever,Viral Infection,COVID-19,Paracetamol
+Male,Loss of Smell,Viral Infection,COVID-19,Supportive Care
+Female,Loss of Taste,Viral Infection,COVID-19,Supportive Care
+Male,Dry Cough,Viral Infection,COVID-19,Cough Suppressants
+Female,Fatigue,Post Viral Syndrome,Long COVID,Multivitamins
+Male,Chest Tightness,Asthma Trigger,Asthma,Inhaled Bronchodilators
+Female,Chest Tightness,Anxiety,Anxiety Disorder,Relaxation Therapy
+Male,Headache,Sinus Infection,Sinusitis,Decongestants
+Female,Headache,Sinus Congestion,Sinusitis,Steam Inhalation
+Male,Facial Pain,Bacterial Infection,Sinusitis,Antibiotics
+Female,Facial Pain,Dental Infection,Dental Abscess,Antibiotics
+Male,Nasal Discharge,Allergy,Allergic Rhinitis,Antihistamines
+Female,Nasal Discharge,Cold Infection,Upper Respiratory Infection,Decongestants
+Male,Eye Itching,Seasonal Allergy,Allergic Conjunctivitis,Antihistamine Drops
+Female,Eye Itching,Dust Exposure,Eye Allergy,Lubricating Drops
+Male,Eye Watering,Blocked Tear Duct,Dacryocystitis,Antibiotic Drops
+Female,Eye Watering,Wind Exposure,Dry Eye Syndrome,Artificial Tears
+Male,Ear Pain,Middle Ear Infection,Otitis Media,Amoxicillin
+Female,Ear Pain,Pressure Changes,Eustachian Tube Dysfunction,Nasal Steroids
+Male,Ear Fullness,Wax Accumulation,Cerumen Impaction,Ear Drops
+Female,Ear Fullness,Sinus Congestion,Ear Blockage,Steam Inhalation
+Male,Jaw Pain,Teeth Grinding,TMJ Disorder,Muscle Relaxants
+Female,Jaw Pain,Stress,TMJ Dysfunction,Physiotherapy
+Male,Toothache,Cavity,Dental Caries,Analgesics
+Female,Toothache,Gum Infection,Gingivitis,Antiseptic Gel
+Male,Swollen Gums,Poor Oral Hygiene,Gingivitis,Mouthwash
+Female,Swollen Gums,Hormonal Changes,Pregnancy Gingivitis,Dental Care
+Male,Neck Lump,Infection,Reactive Lymphadenopathy,Observation
+Female,Neck Lump,Thyroid Disorder,Thyroid Nodule,Endocrine Evaluation
+Male,Shoulder Stiffness,Overuse,Shoulder Impingement,Physiotherapy
+Female,Shoulder Stiffness,Frozen Shoulder,Adhesive Capsulitis,Exercise Therapy
+Male,Elbow Pain,Repetitive Motion,Tennis Elbow,Elbow Brace
+Female,Elbow Pain,Overuse,Golfer’s Elbow,Physiotherapy
+Male,Wrist Pain,Overuse,Wrist Strain,Wrist Support
+Female,Wrist Pain,Inflammation,Tendinitis,NSAIDs
+Male,Hip Pain,Degeneration,Hip Osteoarthritis,Pain Relievers
+Female,Hip Pain,Pregnancy,Pelvic Girdle Pain,Support Belt
+Male,Thigh Pain,Muscle Injury,Muscle Strain,Rest and Ice
+Female,Thigh Pain,Nerve Compression,Radiculopathy,Pain Modulators
+Male,Calf Pain,Dehydration,Muscle Cramps,Electrolytes
+Female,Calf Pain,Pregnancy,Leg Cramps,Magnesium
+Male,Heel Pain,Overuse,Plantar Fasciitis,Heel Pads
+Female,Heel Pain,Improper Footwear,Heel Spur,Orthotics
+Male,Toe Pain,Uric Acid Deposition,Gout,Colchicine
+Female,Toe Pain,Footwear Pressure,Corns,Foot Care
+Male,Nail Discoloration,Fungal Infection,Onychomycosis,Antifungal Tablets
+Female,Nail Brittleness,Nutrient Deficiency,Nail Disorder,Biotin
+Male,Skin Peeling,Dry Skin,Eczema,Moisturizers
+Female,Skin Peeling,Allergy,Contact Dermatitis,Topical Steroids
+Male,White Patches,Skin Fungus,Tinea Versicolor,Antifungal Lotion
+Female,White Patches,Autoimmune Disorder,Vitiligo,Topical Therapy
+Male,Excessive Hair Growth,Hormonal Imbalance,Hirsutism,Endocrine Treatment
+Female,Excessive Hair Growth,PCOS,Polycystic Ovary Syndrome,Hormonal Therapy
+Male,Breast Enlargement,Hormonal Changes,Gynecomastia,Observation
+Female,Breast Pain,Hormonal Fluctuation,Mastalgia,Pain Relievers
+Male,Breast Lump,Infection,Mastitis,Antibiotics
+Female,Breast Lump,Fibrocystic Changes,Benign Breast Disease,Reassurance
+Male,Testicular Pain,Infection,Epididymitis,Antibiotics
+Female,Pelvic Pain,Endometriosis,Endometriosis,Pain Management
+Male,Groin Pain,Hernia,Inguinal Hernia,Surgical Referral
+Female,Groin Pain,Muscle Strain,Groin Strain,Rest
+Male,Urinary Frequency,High Blood Sugar,Diabetes Mellitus,Glucose Control
+Female,Urinary Frequency,Bladder Irritation,Interstitial Cystitis,Bladder Training
+Male,Urinary Retention,Neurological Cause,Neurogenic Bladder,Catheterization
+Female,Urinary Burning,Yeast Infection,Vaginal Candidiasis,Antifungal Cream
+Male,Penile Discharge,STD,Gonorrhea,Antibiotics
+Female,Vaginal Discharge,Bacterial Infection,Bacterial Vaginosis,Metronidazole
+Male,Genital Itching,Fungal Infection,Tinea Cruris,Antifungals
+Female,Genital Itching,Allergy,Contact Dermatitis,Topical Steroids
+Male,Erectile Dysfunction,Vascular Cause,Erectile Dysfunction,PDE5 Inhibitors
+Female,Painful Intercourse,Dryness,Vaginal Dryness,Lubricants
+Male,Low Energy,Testosterone Deficiency,Hypogonadism,Hormone Therapy
+Female,Low Energy,Anemia,Iron Deficiency,Iron Supplements
+Male,Cold Intolerance,Thyroid Disorder,Hypothyroidism,Levothyroxine
+Female,Heat Intolerance,Thyroid Disorder,Hyperthyroidism,Antithyroid Drugs
+Male,Shaking Hands,Low Blood Sugar,Hypoglycemia,Glucose
+Female,Shaking Hands,Anxiety,Anxiety Disorder,CBT
+Male,Confusion,Electrolyte Imbalance,Hyponatremia,IV Fluids
+Female,Confusion,Infection,Delirium,Treat Underlying Cause
+Male,Hallucinations,Substance Abuse,Withdrawal Syndrome,Detox Therapy
+Female,Hallucinations,Psychiatric Illness,Schizophrenia,Antipsychotics
+Male,Mood Swings,Bipo
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Bacterial Infection,Sepsis,IV Antibiotics
+Female,Fever,Viral Infection,Viral Fever,Paracetamol
+Male,Chills,Bloodstream Infection,Bacteremia,IV Antibiotics
+Female,Chills,Malaria,Malaria,Artemisinin
+Male,Weakness,Anemia,Iron Deficiency Anemia,Iron Supplements
+Female,Weakness,Post Viral,Viral Fatigue,Rest
+Male,Loss of Appetite,Liver Disease,Chronic Hepatitis,Liver Support
+Female,Loss of Appetite,Gastritis,Acid Peptic Disease,Proton Pump Inhibitors
+Male,Night Fever,Tuberculosis,Pulmonary Tuberculosis,Anti TB Drugs
+Female,Night Fever,Autoimmune Disorder,Systemic Lupus,Immunosuppressants
+Male,Cough with Blood,Tuberculosis,Hemoptysis,Anti TB Therapy
+Female,Cough with Blood,Bronchiectasis,Bronchiectasis,Antibiotics
+Male,Chest Pain,Inflammation,Costochondritis,NSAIDs
+Female,Chest Pain,Muscle Strain,Musculoskeletal Pain,Pain Relievers
+Male,Shortness of Breath,Obesity,Obesity Hypoventilation,Weight Reduction
+Female,Shortness of Breath,Pregnancy,Physiological Dyspnea,Reassurance
+Male,Swelling Face,Allergic Reaction,Angioedema,Antihistamines
+Female,Swelling Face,Renal Disorder,Nephrotic Syndrome,Diuretics
+Male,Swollen Legs,Heart Failure,Peripheral Edema,Diuretics
+Female,Swollen Legs,Pregnancy,Physiological Edema,Leg Elevation
+Male,High Blood Sugar,Insulin Resistance,Type 2 Diabetes,Metformin
+Female,High Blood Sugar,Pregnancy,Gestational Diabetes,Diet Control
+Male,Low Blood Sugar,Excess Insulin,Hypoglycemia,Glucose
+Female,Low Blood Sugar,Skipped Meals,Hypoglycemia,Oral Glucose
+Male,Blurred Vision,Diabetes,Diabetic Retinopathy,Blood Sugar Control
+Female,Blurred Vision,Cataract,Cataract,Surgical Referral
+Male,Double Vision,Neurological Disorder,Cranial Nerve Palsy,Neurology Care
+Female,Double Vision,Myasthenia Gravis,Neuromuscular Disorder,Anticholinesterase
+Male,Eye Discharge,Bacterial Infection,Bacterial Conjunctivitis,Antibiotic Drops
+Female,Eye Discharge,Viral Infection,Viral Conjunctivitis,Lubricants
+Male,Ear Ringing,Noise Exposure,Tinnitus,Sound Therapy
+Female,Ear Ringing,Stress,Tinnitus,Relaxation Therapy
+Male,Ear Pain,External Infection,Otitis Externa,Antibiotic Drops
+Female,Ear Pain,Cold Exposure,Earache,Warm Compress
+Male,Nose Bleed,Hypertension,Epistaxis,Blood Pressure Control
+Female,Nose Bleed,Dry Climate,Epistaxis,Nasal Moisturizers
+Male,Loss of Voice,Overuse,Voice Strain,Voice Rest
+Female,Loss of Voice,Laryngitis,Laryngitis,Steam Inhalation
+Male,Difficulty Swallowing,Esophageal Disorder,Dysphagia,Gastro Evaluation
+Female,Difficulty Swallowing,Thyroid Enlargement,Goiter,Endocrine Referral
+Male,Abdominal Distension,Liver Disease,Ascites,Diuretics
+Female,Abdominal Distension,Ovarian Disorder,Ovarian Tumor,Gyne Evaluation
+Male,Abdominal Cramps,Food Intolerance,Lactose Intolerance,Lactase
+Female,Abdominal Cramps,Menstruation,Menstrual Pain,Antispasmodics
+Male,Black Stool,GI Bleeding,Peptic Ulcer,Endoscopy
+Female,Black Stool,Iron Supplements,Melena Observation,Medication Review
+Male,Blood in Stool,Hemorrhoids,Piles,Topical Treatment
+Female,Blood in Stool,Colitis,Ulcerative Colitis,Anti Inflammatory Drugs
+Male,Frequent Diarrhea,IBD,Crohn’s Disease,Immunosuppressants
+Female,Frequent Diarrhea,IBS,IBS,Probiotics
+Male,Anal Pain,Fissure,Anal Fissure,Topical Ointment
+Female,Anal Pain,Hemorrhoids,Piles,Local Treatment
+Male,Urinary Pain,Stone Disease,Ureteric Stone,Pain Relief
+Female,Urinary Pain,UTI,Cystitis,Antibiotics
+Male,Reduced Urine Output,Dehydration,Acute Kidney Injury,IV Fluids
+Female,Reduced Urine Output,Renal Disorder,Acute Kidney Injury,Nephrology Care
+Male,Foamy Urine,Protein Loss,Nephrotic Syndrome,ACE Inhibitors
+Female,Foamy Urine,Renal Disease,Proteinuria,Renal Monitoring
+Male,Testicular Swelling,Fluid Collection,Hydrocele,Surgical Referral
+Female,Lower Abdominal Mass,Fibroids,Uterine Fibroids,Observation
+Male,Penile Pain,Infection,Balanitis,Topical Antibiotics
+Female,Vaginal Pain,Inflammation,Vaginitis,Antimicrobials
+Male,Delayed Ejaculation,Medication Side Effect,Sexual Dysfunction,Medication Review
+Female,Irregular Periods,PCOS,Polycystic Ovary Syndrome,Hormonal Regulation
+Male,Hair Thinning,Genetic Cause,Androgenic Alopecia,Minoxidil
+Female,Hair Thinning,Iron Deficiency,Hair Loss,Iron Supplements
+Male,Skin Thickening,Chronic Diabetes,Diabetic Dermopathy,Glucose Control
+Female,Skin Darkening,Insulin Resistance,Acanthosis Nigricans,Weight Reduction
+Male,Excessive Thirst,Uncontrolled Diabetes,Diabetes Mellitus,Insulin Therapy
+Female,Excessive Thirst,Hot Climate,Dehydration,Oral Fluids
+Male,Cold Hands,Poor Circulation,Peripheral Vascular Disease,Vasodilators
+Female,Cold Hands,Raynaud Phenomenon,Raynaud Syndrome,Warming Measures
+Male,Fainting,Low BP,Syncope,IV Fluids
+Female,Fainting,Anemia,Syncopal Episode,Iron Therapy
+Male,Severe Headache,Subarachnoid Bleed,Neurological Emergency,Emergency Care
+Female,Severe Headache,Migraine,Migraine Attack,Triptans
+Male,Personality Change,Brain Tumor,Neurological Disorder,Neurosurgery Referral
+Female,Personality Change,Depression,Mood Disorder,Psychiatric Care
+Male,Inattention,ADHD,Attention Deficit Disorder,Stimulants
+Female,Inattention,Anxiety,Anxiety Disorder,Cognitive Therapy
+Male,Panic Attacks,Stress,Panic Disorder,SSRIs
+Female,Panic Attacks,Trauma,PTSD,Trauma Therapy
+Male,Hallucinations,Alcohol Withdrawal,Delirium Tremens,Benzodiazepines
+Female,Hallucinations,Severe Depression,Psychotic Depression,Antipsychotics
+Male,Memory Decline,Age Related,Dementia,Cognitive Enhancers
+Female,Memory Decline,Stress,Memory Impairment,Stress Management
+Male,Unsteady Gait,Neuropathy,Peripheral Neuropathy,Gabapentin
+Female,Unsteady Gait,Vitamin Deficiency,Ataxia,Vitamin Therapy
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Tick Bite,Lyme Disease,Doxycycline
+Female,Fever,Water Contamination,Cholera,Oral Rehydration
+Male,Severe Diarrhea,Bacterial Toxin,Cholera,Azithromycin
+Female,Severe Diarrhea,Food Contamination,Enteritis,IV Fluids
+Male,Cough,Night Exposure,Whooping Cough,Macrolides
+Female,Cough,Childhood Infection,Pertussis,Supportive Care
+Male,Runny Nose,Viral Infection,Rhinitis,Antihistamines
+Female,Runny Nose,Cold Exposure,Rhinitis,Steam Inhalation
+Male,Headache,Sinus Pressure,Frontal Sinusitis,NSAIDs
+Female,Headache,Dehydration,Dehydration,Fluids
+Male,Dizziness,Arrhythmia,Cardiac Syncope,Cardiology Care
+Female,Dizziness,Vertigo,BPPV,Epley Maneuver
+Male,Visual Loss,Vascular Occlusion,Retinal Artery Occlusion,Emergency Care
+Female,Visual Loss,Optic Neuritis,Multiple Sclerosis,Steroids
+Male,Eye Swelling,Allergy,Periorbital Edema,Antihistamines
+Female,Eye Swelling,Infection,Preseptal Cellulitis,Antibiotics
+Male,Ear Itching,Fungal Infection,Otomycosis,Antifungal Drops
+Female,Ear Itching,Allergy,Ear Dermatitis,Topical Steroids
+Male,Nasal Pain,Trauma,Nasal Injury,Cold Compress
+Female,Nasal Pain,Infection,Nasal Vestibulitis,Antibiotic Ointment
+Male,Sore Throat,Bacterial Infection,Tonsillitis,Penicillin
+Female,Sore Throat,Acid Reflux,GERD,Proton Pump Inhibitors
+Male,Voice Change,Laryngeal Lesion,Vocal Cord Polyp,ENT Referral
+Female,Voice Change,Hormonal Changes,Voice Fatigue,Voice Therapy
+Male,Chest Tightness,Cardiac Ischemia,Myocardial Ischemia,Antiplatelets
+Female,Chest Tightness,Anxiety,Somatic Disorder,CBT
+Male,Irregular Pulse,Electrolyte Imbalance,Arrhythmia,Electrolyte Correction
+Female,Irregular Pulse,Thyroid Disorder,Hyperthyroidism,Beta Blockers
+Male,Abdominal Pain,Pancreatic Inflammation,Pancreatitis,IV Fluids
+Female,Abdominal Pain,Constipation,Fecal Impaction,Laxatives
+Male,Bloating,Delayed Gastric Emptying,Gastroparesis,Prokinetics
+Female,Bloating,Fermentation,Functional Bloating,Diet Modification
+Male,Yellow Stool,Fat Malabsorption,Steatorrhea,Pancreatic Enzymes
+Female,Yellow Stool,Biliary Disorder,Cholestasis,Ursodeoxycholic Acid
+Male,Rectal Bleeding,Polyps,Colorectal Polyps,Colonoscopy
+Female,Rectal Bleeding,Inflammation,Proctitis,Topical Steroids
+Male,Anal Itching,Parasitic Infection,Pinworms,Albendazole
+Female,Anal Itching,Allergy,Perianal Dermatitis,Barrier Cream
+Male,Urinary Urgency,Bladder Irritation,Overactive Bladder,Antimuscarinics
+Female,Urinary Urgency,UTI,Urinary Tract Infection,Antibiotics
+Male,Dark Urine,Liver Injury,Drug Induced Hepatitis,Stop Offending Drug
+Female,Dark Urine,Dehydration,Concentrated Urine,Hydration
+Male,Scrotal Swelling,Vein Dilation,Varicocele,Urology Referral
+Female,Lower Pelvic Pain,Pelvic Infection,PID,Antibiotics
+Male,Genital Ulcer,STD,Syphilis,Penicillin
+Female,Genital Ulcer,STD,Herpes Simplex,Acyclovir
+Male,Infertility,Hormonal Disorder,Oligospermia,Endocrine Therapy
+Female,Infertility,Ovulatory Disorder,Anovulation,Fertility Treatment
+Male,Hot Flushes,Hormonal Imbalance,Andropause,Lifestyle Changes
+Female,Hot Flushes,Menopause,Climacteric Symptoms,Hormone Therapy
+Male,Bone Pain,Vitamin D Deficiency,Osteomalacia,Vitamin D
+Female,Bone Pain,Osteoporosis,Low Bone Density,Bisphosphonates
+Male,Fracture,Trauma,Bone Fracture,Immobilization
+Female,Fracture,Fall Injury,Bone Fracture,Orthopedic Care
+Male,Joint Deformity,Chronic Arthritis,Rheumatoid Arthritis,DMARDs
+Female,Joint Deformity,Autoimmune Disease,Rheumatoid Arthritis,Immunotherapy
+Male,Muscle Wasting,Neuromuscular Disease,Muscular Dystrophy,Supportive Care
+Female,Muscle Wasting,Disuse,Muscle Atrophy,Physiotherapy
+Male,Tingling Sensation,Nerve Damage,Peripheral Neuropathy,Gabapentin
+Female,Tingling Sensation,Anxiety,Hyperventilation Syndrome,Breathing Control
+Male,Cold Sensation,Hypothyroidism,Thyroid Deficiency,Levothyroxine
+Female,Cold Sensation,Low Body Weight,Hypothermia Risk,Warming Measures
+Male,Excessive Hunger,Low Blood Sugar,Hypoglycemia,Glucose Intake
+Female,Excessive Hunger,Diabetes,Polyphagia,Glucose Regulation
+Male,Sweaty Palms,Anxiety,Generalized Anxiety Disorder,CBT
+Female,Sweaty Palms,Autonomic Dysfunction,Hyperhidrosis,Topical Antiperspirants
+Male,Fearfulness,Psychological Stress,Phobia,Exposure Therapy
+Female,Fearfulness,Trauma,Anxiety Disorder,Psychotherapy
+Male,Impulsivity,Behavioral Disorder,Impulse Control Disorder,Behavior Therapy
+Female,Impulsivity,Mood Disorder,Bipolar Disorder,Mood Stabilizers
+Male,Speech Delay,Developmental Issue,Language Disorder,Speech Therapy
+Female,Speech Delay,Neurodevelopmental Disorder,Autism Spectrum Disorder,Early Intervention
+Male,Learning Difficulty,Neurodevelopmental Disorder,Dyslexia,Educational Therapy
+Female,Learning Difficulty,Attention Disorder,ADHD,Behavior Therapy
+Male,Poor Concentration,Sleep Deprivation,Insomnia,Sleep Hygiene
+Female,Poor Concentration,Stress,Burnout Syndrome,Stress Management
+Male,Chronic Fatigue,Unknown Cause,Chronic Fatigue Syndrome,Multidisciplinary Care
+Female,Chronic Fatigue,Anemia,Iron Deficiency,Iron Therapy
+Male,Excessive Yawning,Hypoxia,Sleep Apnea,CPAP
+Female,Excessive Yawning,Fatigue,Sleep Deprivation,Rest
+Male,Unintentional Weight Gain,Medication Side Effect,Drug Induced Weight Gain,Medication Review
+Female,Unintentional Weight Gain,Hormonal Disorder,Hypothyroidism,Thyroid Hormone
+Male,Unintentional Weight Loss,Malignancy,Cancer,Oncology Referral
+Female,Unintentional Weight Loss,Hyperthyroidism,Thyrotoxicosis,Antithyroid Drugs
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Influenza Virus,Influenza,Acetaminophen
+Female,Fever,Dengue Virus,Dengue,Paracetamol
+Male,Cough,Bronchitis,Bronchitis,Amoxicillin
+Female,Cough,Allergy,Allergic Cough,Antihistamines
+Male,Shortness of Breath,Asthma Attack,Asthma,Albuterol Inhaler
+Female,Shortness of Breath,Heart Failure,Cardiac Asthma,Diuretics
+Male,Chest Pain,Angina,Pectoris,Nitroglycerin
+Female,Chest Pain,Muscle Strain,Chest Wall Pain,Pain Relievers
+Male,Palpitations,Arrhythmia,Atrial Fibrillation,Antiarrhythmic Drugs
+Female,Palpitations,Anxiety,Panic Disorder,SSRIs
+Male,Swelling Legs,Heart Failure,Edema,Diuretics
+Female,Swelling Legs,Kidney Disease,Nephrotic Syndrome,ACE Inhibitors
+Male,Abdominal Pain,Appendicitis,Acute Appendicitis,Surgical Removal
+Female,Abdominal Pain,Constipation,Functional Constipation,Laxatives
+Male,Diarrhea,Food Poisoning,Acute Gastroenteritis,Oral Rehydration
+Female,Diarrhea,Infection,Bacterial Gastroenteritis,Antibiotics
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Nausea,Pregnancy,Morning Sickness,Vitamin B6
+Male,Vomiting,Food Poisoning,Acute Gastroenteritis,Oral Rehydration
+Female,Vomiting,Medication Side Effect,Drug Induced Nausea,Antiemetics
+Male,Headache,Dehydration,Dehydration,Fluids
+Female,Headache,Migraine,Migraine,Triptans
+Male,Back Pain,Muscle Strain,Lumbar Strain,NSAIDs
+Female,Back Pain,Osteoarthritis,Lumbar Osteoarthritis,NSAIDs
+Male,Joint Pain,Rheumatoid Arthritis,Rheumatoid Arthritis,DMARDs
+Female,Joint Pain,Injury,Knee Sprain,Rest and Ice
+Male,Muscle Pain,Overuse,Myalgia,Pain Relievers
+Female,Muscle Pain,Inflammation,Myositis,NSAIDs
+Male,Skin Rash,Allergy,Contact Dermatitis,Topical Steroids
+Female,Skin Rash,Infection,Fungal Infection,Antifungal Cream
+Male,Itching,Allergy,Urticaria,Antihistamines
+Female,Itching,Dermatitis,Atopic Dermatitis,Topical Steroids
+Male,Hair Loss,Genetic,Androgenic Alopecia,Minoxidil
+Female,Hair Loss,Hormonal,Telogen Effluvium,Iron Supplements
+Male,Weight Loss,Diabetes,Uncontrolled Diabetes,Insulin Therapy
+Female,Weight Loss,Hyperthyroidism,Thyrotoxicosis,Antithyroid Drugs
+Male,Weight Gain,Hypothyroidism,Low Thyroid Hormone,Levothyroxine
+Female,Weight Gain,Medication Side Effect,Drug Induced Weight Gain,Review Medication
+Male,Excessive Thirst,Diabetes,Polyuria,Insulin Therapy
+Female,Excessive Thirst,Hot Weather,Dehydration,Oral Fluids
+Male,Frequent Urination,Diabetes,Hyperglycemia,Insulin Therapy
+Female,Frequent Urination,Urinary Infection,Cystitis,Antibiotics
+Male,Chest Tightness,Heart Disease,Myocardial Infarction,Emergency Care
+Female,Chest Tightness,Asthma,Asthma Attack,Albuterol Inhaler
+Male,Dizziness,Low Blood Pressure,Hypotension,IV Fluids
+Female,Dizziness,Vertigo,BPPV,Epley Maneuver
+Male,Fainting,Cardiac Cause,Arrhythmia,Cardiology Referral
+Female,Fainting,Dehydration,Volume Depletion,Oral Fluids
+Male,Numbness,Nerve Compression,Peripheral Neuropathy,Gabapentin
+Female,Numbness,Vitamin Deficiency,Pernicious Anemia,Vitamin B12
+Male,Tingling,Nerve Irritation,Cervical Radiculopathy,Physical Therapy
+Female,Tingling,Diabetes,Peripheral Neuropathy,Glycemic Control
+Male,Blurred Vision,Diabetes,Diabetic Retinopathy,Eye Specialist
+Female,Blurred Vision,Cataract,Cataract,Surgical Referral
+Male,Double Vision,Neurological,Palsy,Neurology Care
+Female,Double Vision,Thyroid Disease,Thyroid Eye Disease,Endocrinology
+Male,Hearing Loss,Noise Exposure,Noise Induced Hearing Loss,Hearing Aids
+Female,Hearing Loss,Infection,Otitis Media,Antibiotics
+Male,Tinnitus,Stress,Tinnitus,Sound Therapy
+Female,Tinnitus,Inner Ear Disorder,Meniere’s Disease,Diuretics
+Male,Snoring,Obesity,Sleep Apnea,CPAP
+Female,Snoring,Anatomical,Nasal Obstruction,Surgical Correction
+Male,Sore Throat,Viral Infection,Pharyngitis,Supportive Care
+Female,Sore Throat,Bacterial Infection,Tonsillitis,Penicillin
+Male,Hoarseness,Voice Overuse,Laryngitis,Voice Rest
+Female,Hoarseness,Acid Reflux,Laryngopharyngeal Reflux,PPIs
+Male,Tooth Pain,Cavity,Dental Caries,Dental Filling
+Female,Tooth Pain,Gum Infection,Gingivitis,Oral Hygiene
+Male,Abdominal Bloating,Gas,Fermentation,Dietary Changes
+Female,Abdominal Bloating,IBS,Functional Bloating,Probiotics
+Male,Constipation,Poor Diet,Functional Constipation,Laxatives
+Female,Constipation,Medication Side Effect,Drug Induced Constipation,Review Medication
+Male,Heartburn,Acid Reflux,GERD,PPIs
+Female,Heartburn,Hiatal Hernia,GERD,PPIs
+Male,Diarrhea,Infection,Salmonella,Antibiotics
+Female,Diarrhea,Stress,IBS,Lifestyle Modification
+Male,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Nausea,Pregnancy,Morning Sickness,Vitamin B6
+Male,Vomiting,Infection,Gastroenteritis,Oral Rehydration
+Female,Vomiting,Medication Side Effect,Drug Induced Nausea,Antiemetics
+Male,Headache,Stress,Tension Headache,NSAIDs
+Female,Headache,Migraine,Migraine,Triptans
+Male,Back Pain,Muscle Strain,Lumbar Strain,NSAIDs
+Female,Back Pain,Osteoarthritis,Lumbar Osteoarthritis,NSAIDs
+Male,Joint Pain,Rheumatoid Arthritis,Rheumatoid Arthritis,DMARDs
+Female,Joint Pain,Injury,Knee Sprain,Rest and Ice
+Male,Muscle Pain,Overuse,Myalgia,Pain Relievers
+Female,Muscle Pain,Inflammation,Myositis,NSAIDs
+Male,Skin Rash,Allergy,Contact Dermatitis,Topical Steroids
+Female,Skin Rash,Infection,Fungal Infection,Antifungal Cream
+Male,Itching,Allergy,Urticaria,Antihistamines
+Female,Itching,Dermatitis,Atopic Dermatitis,Topical Steroids
+Male,Hair Loss,Genetic,Androgenic Alopecia,Minoxidil
+Female,Hair Loss,Hormonal,Telogen Effluvium,Iron Supplements
+Male,Weight Loss,Diabetes,Uncontrolled Diabetes,Insulin Therapy
+Female,Weight Loss,Hyperthyroidism,Thyrotoxicosis,Antithyroid Drugs
+Male,Weight Gain,Hypothyroidism,Low Thyroid Hormone,Levothyroxine
+Female,Weight Gain,Medication Side Effect,Drug Induced Weight Gain,Review Medication
+Male,Excessive Thirst,Diabetes,Polyuria,Insulin Therapy
+Female,Excessive Thirst,Hot Weather,Dehydration,Oral Fluids
+Male,Frequent Urination,Diabetes,Hyperglycemia,Insulin Therapy
+Female,Frequent Urination,Urinary Infection,Cystitis,Antibiotics
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Malaria Parasite,Malaria,Chloroquine
+Female,Fever,Typhoid Bacteria,Typhoid,Azithromycin
+Male,Cough,Viral Infection,Influenza,Oseltamivir
+Female,Cough,Allergy,Seasonal Allergic Rhinitis,Antihistamines
+Male,Shortness of Breath,Asthma Attack,Asthma,Albuterol Inhaler
+Female,Shortness of Breath,Heart Failure,Congestive Heart Failure,Diuretics
+Male,Chest Pain,Angina,Pectoris,Nitroglycerin
+Female,Chest Pain,Anxiety,Somatic Chest Pain,Anxiolytics
+Male,Palpitations,Arrhythmia,Supraventricular Tachycardia,Antiarrhythmic Drugs
+Female,Palpitations,Hyperthyroidism,Thyrotoxicosis,Beta Blockers
+Male,Swelling Feet,Venous Insufficiency,Peripheral Edema,Compression Stockings
+Female,Swelling Feet,Kidney Disorder,Nephrotic Syndrome,ACE Inhibitors
+Male,Abdominal Pain,Appendicitis,Acute Appendicitis,Surgery
+Female,Abdominal Pain,Constipation,Functional Constipation,Laxatives
+Male,Diarrhea,Infection,Salmonella,Antibiotics
+Female,Diarrhea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Nausea,Pregnancy,Morning Sickness,Vitamin B6
+Male,Vomiting,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Vomiting,Medication Side Effect,Drug Induced Nausea,Antiemetics
+Male,Headache,Stress,Tension Headache,NSAIDs
+Female,Headache,Migraine,Migraine,Triptans
+Male,Back Pain,Muscle Strain,Lumbar Strain,NSAIDs
+Female,Back Pain,Osteoarthritis,Lumbar Osteoarthritis,NSAIDs
+Male,Joint Pain,Rheumatoid Arthritis,Rheumatoid Arthritis,DMARDs
+Female,Joint Pain,Knee Injury,Knee Sprain,Rest and Ice
+Male,Muscle Pain,Overuse,Myalgia,Pain Relievers
+Female,Muscle Pain,Inflammation,Myositis,NSAIDs
+Male,Skin Rash,Allergy,Contact Dermatitis,Topical Steroids
+Female,Skin Rash,Fungal Infection,Tinea Corporis,Antifungal Cream
+Male,Itching,Allergy,Urticaria,Antihistamines
+Female,Itching,Dermatitis,Atopic Dermatitis,Topical Steroids
+Male,Hair Loss,Genetic,Androgenic Alopecia,Minoxidil
+Female,Hair Loss,Hormonal,Telogen Effluvium,Iron Supplements
+Male,Weight Loss,Diabetes,Uncontrolled Diabetes,Insulin Therapy
+Female,Weight Loss,Hyperthyroidism,Thyrotoxicosis,Antithyroid Drugs
+Male,Weight Gain,Hypothyroidism,Low Thyroid Hormone,Levothyroxine
+Female,Weight Gain,Medication Side Effect,Drug Induced Weight Gain,Review Medication
+Male,Excessive Thirst,Diabetes,Polyuria,Insulin Therapy
+Female,Excessive Thirst,Hot Weather,Dehydration,Oral Fluids
+Male,Frequent Urination,Diabetes,Hyperglycemia,Insulin Therapy
+Female,Frequent Urination,Urinary Infection,Cystitis,Antibiotics
+Male,Chest Tightness,Heart Disease,Myocardial Infarction,Emergency Care
+Female,Chest Tightness,Asthma,Asthma Attack,Albuterol Inhaler
+Male,Dizziness,Low Blood Pressure,Hypotension,IV Fluids
+Female,Dizziness,Vertigo,BPPV,Epley Maneuver
+Male,Fainting,Cardiac Cause,Arrhythmia,Cardiology Referral
+Female,Fainting,Dehydration,Volume Depletion,Oral Fluids
+Male,Numbness,Nerve Compression,Peripheral Neuropathy,Gabapentin
+Female,Numbness,Vitamin Deficiency,Pernicious Anemia,Vitamin B12
+Male,Tingling,Nerve Irritation,Cervical Radiculopathy,Physical Therapy
+Female,Tingling,Diabetes,Peripheral Neuropathy,Glycemic Control
+Male,Blurred Vision,Diabetes,Diabetic Retinopathy,Eye Specialist
+Female,Blurred Vision,Cataract,Cataract,Surgical Referral
+Male,Double Vision,Neurological,Palsy,Neurology Care
+Female,Double Vision,Thyroid Disease,Thyroid Eye Disease,Endocrinology
+Male,Hearing Loss,Noise Exposure,Noise Induced Hearing Loss,Hearing Aids
+Female,Hearing Loss,Infection,Otitis Media,Antibiotics
+Male,Tinnitus,Stress,Tinnitus,Sound Therapy
+Female,Tinnitus,Inner Ear Disorder,Meniere’s Disease,Diuretics
+Male,Snoring,Obesity,Sleep Apnea,CPAP
+Female,Snoring,Anatomical,Nasal Obstruction,Surgical Correction
+Male,Sore Throat,Viral Infection,Pharyngitis,Supportive Care
+Female,Sore Throat,Bacterial Infection,Tonsillitis,Penicillin
+Male,Hoarseness,Voice Overuse,Laryngitis,Voice Rest
+Female,Hoarseness,Acid Reflux,Laryngopharyngeal Reflux,PPIs
+Male,Tooth Pain,Cavity,Dental Caries,Dental Filling
+Female,Tooth Pain,Gum Infection,Gingivitis,Oral Hygiene
+Male,Abdominal Bloating,Gas,Fermentation,Dietary Changes
+Female,Abdominal Bloating,IBS,Functional Bloating,Probiotics
+Male,Constipation,Poor Diet,Functional Constipation,Laxatives
+Female,Constipation,Medication Side Effect,Drug Induced Constipation,Review Medication
+Male,Heartburn,Acid Reflux,GERD,PPIs
+Female,Heartburn,Hiatal Hernia,GERD,PPIs
+Male,Diarrhea,Infection,Salmonella,Antibiotics
+Female,Diarrhea,Stress,IBS,Lifestyle Modification
+Male,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Nausea,Pregnancy,Morning Sickness,Vitamin B6
+Male,Vomiting,Infection,Gastroenteritis,Oral Rehydration
+Female,Vomiting,Medication Side Effect,Drug Induced Nausea,Antiemetics
+Gender,Symptoms,Causes,Disease,Medicine
+Male,Fever,Viral Infection,Influenza,Acetaminophen
+Female,Fever,Dengue Virus,Dengue,Paracetamol
+Male,Cough,Viral Infection,Bronchitis,Amoxicillin
+Female,Cough,Allergy,Allergic Cough,Antihistamines
+Male,Shortness of Breath,Asthma Attack,Asthma,Albuterol Inhaler
+Female,Shortness of Breath,Heart Failure,Congestive Heart Failure,Diuretics
+Male,Chest Pain,Angina,Pectoris,Nitroglycerin
+Female,Chest Pain,Muscle Strain,Chest Wall Pain,Pain Relievers
+Male,Palpitations,Arrhythmia,Atrial Fibrillation,Antiarrhythmic Drugs
+Female,Palpitations,Anxiety,Panic Disorder,SSRIs
+Male,Swelling Legs,Heart Failure,Edema,Diuretics
+Female,Swelling Legs,Kidney Disease,Nephrotic Syndrome,ACE Inhibitors
+Male,Abdominal Pain,Appendicitis,Acute Appendicitis,Surgical Removal
+Female,Abdominal Pain,Constipation,Functional Constipation,Laxatives
+Male,Diarrhea,Food Poisoning,Acute Gastroenteritis,Oral Rehydration
+Female,Diarrhea,Infection,Bacterial Gastroenteritis,Antibiotics
+Male,Nausea,Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Nausea,Pregnancy,Morning Sickness,Vitamin B6
+Male,Vomiting,Food Poisoning,Acute Gastroenteritis,Oral Rehydration
+Female,Vomiting,Medication Side Effect,Drug Induced Nausea,Antiemetics
+Male,Headache,Dehydration,Dehydration,Fluids
+Female,Headache,Migraine,Migraine,Triptans
+Male,Back Pain,Muscle Strain,Lumbar Strain,NSAIDs
+Female,Back Pain,Osteoarthritis,Lumbar Osteoarthritis,NSAIDs
+Male,Joint Pain,Rheumatoid Arthritis,Rheumatoid Arthritis,DMARDs
+Female,Joint Pain,Injury,Knee Sprain,Rest and Ice
+Male,Muscle Pain,Overuse,Myalgia,Pain Relievers
+Female,Muscle Pain,Inflammation,Myositis,NSAIDs
+Male,Skin Rash,Allergy,Contact Dermatitis,Topical Steroids
+Female,Skin Rash,Infection,Fungal Infection,Antifungal Cream
+Male,Itching,Allergy,Urticaria,Antihistamines
+Female,Itching,Dermatitis,Atopic Dermatitis,Topical Steroids
+Male,Hair Loss,Genetic,Androgenic Alopecia,Minoxidil
+Female,Hair Loss,Hormonal,Telogen Effluvium,Iron Supplements
+Male,Weight Loss,Diabetes,Uncontrolled Diabetes,Insulin Therapy
+Female,Weight Loss,Hyperthyroidism,Thyrotoxicosis,Antithyroid Drugs
+Male,Weight Gain,Hypothyroidism,Low Thyroid Hormone,Levothyroxine
+Female,Weight Gain,Medication Side Effect,Drug Induced Weight Gain,Review Medication
+Male,Excessive Thirst,Diabetes,Polyuria,Insulin Therapy
+Female,Excessive Thirst,Hot Weather,Dehydration,Oral Fluids
+Male,Frequent Urination,Diabetes,Hyperglycemia,Insulin Therapy
+Female,Frequent Urination,Urinary Infection,Cystitis,Antibiotics
+Male,Chest Tightness,Heart Disease,Myocardial Infarction,Emergency Care
+Female,Chest Tightness,Asthma,Asthma Attack,Albuterol Inhaler
+Male,Dizziness,Low Blood Pressure,Hypotension,IV Fluids
+Female,Dizziness,Vertigo,BPPV,Epley Maneuver
+Male,Fainting,Cardiac Cause,Arrhythmia,Cardiology Referral
+Female,Fainting,Dehydration,Volume Depletion,Oral Fluids
+Male,Numbness,Nerve Compression,Peripheral Neuropathy,Gabapentin
+Female,Numbness,Vitamin Deficiency,Pernicious Anemia,Vitamin B12
+Male,Tingling,Nerve Irritation,Cervical Radiculopathy,Physical Therapy
+Female,Tingling,Diabetes,Peripheral Neuropathy,Glycemic Control
+Male,Blurred Vision,Diabetes,Diabetic Retinopathy,Eye Specialist
+Female,Blurred Vision,Cataract,Cataract,Surgical Referral
+Male,Double Vision,Neurological,Palsy,Neurology Care
+Female,Double Vision,Thyroid Disease,Thyroid Eye Disease,Endocrinology
+Male,Hearing Loss,Noise Exposure,Noise Induced Hearing Loss,Hearing Aids
+Female,Hearing Loss,Infection,Otitis Media,Antibiotics
+Male,Tinnitus,Stress,Tinnitus,Sound Therapy
+Female,Tinnitus,Inner Ear Disorder,Meniere’s Disease,Diuretics
+Male,Snoring,Obesity,Sleep Apnea,CPAP
+Female,Snoring,Anatomical,Nasal Obstruction,Surgical Correction
+Male,Sore Throat,Viral Infection,Pharyngitis,Supportive Care
+Female,Sore Throat,Bacterial Infection,Tonsillitis,Penicillin
+Male,Hoarseness,Voice Overuse,Laryngitis,Voice Rest
+Female,Hoarseness,Acid Reflux,Laryngopharyngeal Reflux,PPIs
+Male,Tooth Pain,Cavity,Dental Caries,Dental Filling
+Female,Tooth Pain,Gum Infection,Gingivitis,Oral Hygiene
+Male,Abdominal Bloating,Gas,Fermentation,Dietary Changes
+Female,Abdominal Bloating,IBS,Functional Bloating,Probiotics
+Male,Constipation,Poor Diet,Functional Constipation,Laxatives
+Female,Constipation,Medication Side Effect,Drug Induced Constipation,Review Medication
+Male,Heartburn,Acid Reflux,GERD,PPIs
+Female,Heartburn,Hiatal Hernia,GERD,PPIs
+Male,Diarrhea,Infection,Salmonella,Antibiotics
+Female,Diarrhea,Stress,IBS,Lifestyle Modification
+Male,Nausea,Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,Nausea,Pregnancy,Morning Sickness,Vitamin B6
+Male,Vomiting,Infection,Gastroenteritis,Oral Rehydration
+Female,Vomiting,Medication Side Effect,Drug Induced Nausea,Antiemetics
+Male,Headache,Stress,Tension Headache,NSAIDs
+Female,Headache,Migraine,Migraine,Triptans
+Male,Back Pain,Muscle Strain,Lumbar Strain,NSAIDs
+Female,Back Pain,Osteoarthritis,Lumbar Osteoarthritis,NSAIDs
+Male,Joint Pain,Rheumatoid Arthritis,Rheumatoid Arthritis,DMARDs
+Female,Joint Pain,Injury,Knee Sprain,Rest and Ice
+Male,Muscle Pain,Overuse,Myalgia,Pain Relievers
+Female,Muscle Pain,Inflammation,Myositis,NSAIDs
+Male,Skin Rash,Allergy,Contact Dermatitis,Topical Steroids
+Female,Skin Rash,Infection,Fungal Infection,Antifungal Cream
+Male,Itching,Allergy,Urticaria,Antihistamines
+Female,Itching,Dermatitis,Atopic Dermatitis,Topical Steroids
+Male,Hair Loss,Genetic,Androgenic Alopecia,Minoxidil
+Female,Hair Loss,Hormonal,Telogen Effluvium,Iron Supplements
